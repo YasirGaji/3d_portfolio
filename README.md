@@ -1,30 +1,27 @@
-# React + TypeScript + Vite
+# A Portfolio Website With 3D Modelling
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Ongoing]
 
-Currently, two official plugins are available:
+This is a portfolio website based on JS Mastery's website video on [youtube](https://www.youtube.com/watch?v=0fYi8SGA20k&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=4) built on [React + TypeScript + Vite](https://reactjs.org/) for the front-end, and [Tailwindcss CSS](https://tailwindcss.com/docs/guides/create-react-app) for styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Other tools/technology and libraries used
 
-## Expanding the ESLint configuration
+ [React-Query](https://tanstackquery.com/) - For data mutation |
+ [React Router](https://reactrouter.com/) & [React Router Dom V6](https://reactrouter.com/) - For routing
+ [React Three](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) - for the 3D rendering
+ [MAATH](https://github.com/pmndrs/maath) - for math utility functions
+ [Framer Motion](https://www.framer.com/motion/) - for animations
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## What I Learned
 
-- Configure the top-level `parserOptions` property like this:
+  1. None Yet
+  
+## Errors  I Faced
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+  1. None Yet
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Current Error
+  
+  1. None Yet
+
+## [View Project](https://yasirgaji.com)
